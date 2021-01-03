@@ -19,6 +19,11 @@
 // is intentionally left out so that the sample pages can demonstrate them more
 // clearly.
 
+//////////////////////////// HOLOPLAY
+import {} from '../../../build/holoplay-webxr.js';
+new HoloPlayWebXRPolyfill();
+//////////////////////////// HOLOPLAY
+
 //
 // State consts
 //
