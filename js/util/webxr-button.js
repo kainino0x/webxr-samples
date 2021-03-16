@@ -20,7 +20,7 @@
 // clearly.
 
 //////////////////////////// HOLOPLAY
-import {} from '../../../build/holoplay-webxr.js';
+import {} from '../../../../build/holoplay-webxr.js';
 new HoloPlayWebXRPolyfill();
 //////////////////////////// HOLOPLAY
 
